@@ -1,0 +1,7 @@
+petl
+pymssql
+configparser
+requests
+datetime
+json
+decimal
